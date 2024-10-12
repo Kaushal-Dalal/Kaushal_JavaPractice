@@ -1,10 +1,10 @@
-package pattern;
+package Pattern;
 
 /**
  * q1
  */
 import java.util.Scanner;
-public class q1 {
+public class rectangleprint {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
